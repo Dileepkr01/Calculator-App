@@ -23,6 +23,10 @@ my-project/
 3. Use the calculator directly on the page.
 
 ---
+## 🖼 Calculator Output
+
+![Calculator Output]([images/calculator-output.png](https://github.com/Dileepkr01/Calculator-App/blob/a6f9eebf62a342d990f3d05afdf8bcba8e74779f/Calculatorimg.png))  
+
 
 ## 🛠 Features
 
