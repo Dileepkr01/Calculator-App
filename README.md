@@ -25,8 +25,8 @@ my-project/
 ---
 ## 🖼 Calculator Output
 
-![Calculator Output]
-https://github.com/Dileepkr01/Calculator-App/blob/11a0961be183f96eb9ba978301ea3c221bcd3e24/Calculatorimg.png
+![image alt](https://github.com/Dileepkr01/Calculator-App/blob/11a0961be183f96eb9ba978301ea3c221bcd3e24/Calculatorimg.png)
+
 
 
 ## 🛠 Features
