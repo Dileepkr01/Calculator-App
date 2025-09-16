@@ -35,7 +35,7 @@ my-project/
 - Simple and responsive design
 - Real-time calculation
 
----
+----
 
 ## ⚡ Technologies Used
 
