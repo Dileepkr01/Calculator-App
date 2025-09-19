@@ -3,7 +3,7 @@
 A simple **Calculator** built using HTML, CSS, and JavaScript.  
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
--------
+--------
 
 ## 📁 Project Structure
 
